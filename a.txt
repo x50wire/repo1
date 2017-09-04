@@ -1,1 +1,2 @@
-1. This is one line that is modified in develop branch
+1. This is one line that is modified in develop branch.
+2. Added the second line
